@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/gametest.iml" filepath="$PROJECT_DIR$/gametest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assets/gametest-assets.iml" filepath="$PROJECT_DIR$/assets/gametest-assets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/gametest-core.iml" filepath="$PROJECT_DIR$/core/gametest-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/gametest-java.iml" filepath="$PROJECT_DIR$/java/gametest-java.iml" />
+    </modules>
+  </component>
+</project>
+
